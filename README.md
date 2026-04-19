@@ -2,6 +2,9 @@
 
 A comprehensive web-based vulnerability scanner for Laravel applications with a real-time dashboard UI.
 
+<img width="1132" height="401" alt="image" src="https://github.com/user-attachments/assets/f9cbd6a9-4c5b-4cc3-ac19-4b9b512ce98c" />
+
+
 ## Features
 
 Scans for **15 vulnerability categories**:
